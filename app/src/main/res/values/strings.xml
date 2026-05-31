@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">سامانه مدیریت نامه</string>
+    <string name="active_letters">نامه‌های فعال</string>
+    <string name="archived_letters">بایگانی</string>
+    <string name="search">جستجو</string>
+    <string name="financial">مالی</string>
+    <string name="settings">تنظیمات</string>
+    <string name="new_letter">نامه جدید</string>
+    <string name="save">ذخیره</string>
+    <string name="cancel">انصراف</string>
+    <string name="confirm">تأیید</string>
+    <string name="delete">حذف</string>
+    <string name="error">خطا</string>
+    <string name="success">موفق</string>
+    <string name="loading">در حال بارگذاری...</string>
+</resources>
